@@ -2,6 +2,4 @@ The purpose of this project is to make a launcher that launches the 4  versions 
 This is coded in c++.
 The location that you should put the exe in is in the same folder as tmodloader and terraria
 You can reach out to me in discord 
-discord id:1206935039464710194
-The source code: https://drive.google.com/file/d/18LqFzYGKncnliOMzYMssAXHq4RslkUQ4/view?usp=drive_link
-#I am trying to fix the launcher breaking terraria when I try to launch it and i need to find a alternative to the system function 
+discord: Zero37.4
