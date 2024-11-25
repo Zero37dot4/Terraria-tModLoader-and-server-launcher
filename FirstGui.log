@@ -1,0 +1,7 @@
+﻿  App.cpp
+  MainFrame.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 434 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  FirstGui.vcxproj -> C:\Users\Ninin\source\repos\FirstGui\x64\Release\T-Tmod-S Launcher.exe
